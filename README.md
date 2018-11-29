@@ -1,7 +1,8 @@
 # tgbot
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-https://heroku.com/deploy?template=https://github.com/WPDHelper/tgbot
+https://heroku.com/deploy?template=https://github.com/tejmar/WPDHelper
+
 
 
 ## Starting the bot.
