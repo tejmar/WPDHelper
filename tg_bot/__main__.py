@@ -22,7 +22,7 @@ Hi {}, my name is {}! If you have any questions on how to use me, read /help for
 
 I'm a group manager bot maintained by [this wonderful person](tg://user?id={}). I'm built in python3, using the \
 python-telegram-bot library, and am fully opensource - you can find what makes me tick \
-[here](github.com/1maverick1/tgbot)! Here is a link to the [original sources](github.com/PaulSonOfLars/tgbot).
+[here](github.com/tejmar/WPDHelper)! Here is a link to the [original sources](github.com/PaulSonOfLars/tgbot).
 
 You can find the list of available commands with /help.
 
@@ -48,10 +48,10 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / . or !.\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/tejmar) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+There are two ways of paying him; [patreon](https://www.patreon.com/Tejmar)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
